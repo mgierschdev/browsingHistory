@@ -21,3 +21,7 @@ Other ideas to be implemented:
 
 #### Count of visits last 7 days (Aggregated by url)
 ![Count visit](https://user-images.githubusercontent.com/62764972/95521908-bcac0080-0998-11eb-896a-717625a732a8.png)
+
+#### Contribute
+Feel free to contribute or add/edit/re-use.
+
