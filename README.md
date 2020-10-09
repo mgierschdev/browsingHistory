@@ -11,6 +11,8 @@ The notebook does:
 Other ideas to be implemented:
 * Generate a report to see at which times do you often visit more the sites
 * Time spent per website
+* Add the rest of the web-browsers
+* Make it multi-plaform, maybe with [electron](http://electronjs.org)
 
 #### A pie chart last 7 days visits (Aggregated by url)
 ![Image of Yaktocat](https://user-images.githubusercontent.com/62764972/95521895-b4ec5c00-0998-11eb-9487-afb6a73038ae.png)
@@ -23,5 +25,5 @@ Other ideas to be implemented:
 ![Count visit](https://user-images.githubusercontent.com/62764972/95521908-bcac0080-0998-11eb-896a-717625a732a8.png)
 
 #### Contribute
-Feel free to contribute or add/edit/re-use.
+Feel free to contribute or add/edit/re-use/distribute/play.
 
