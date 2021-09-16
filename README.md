@@ -1,5 +1,5 @@
 # Browsing history and stats
-Jupyter notebook that generates a report of your own safari browsing history and other stats. By following by executing the notebook steps:
+Jupyter notebook that generates a report of your own safari browsing history and other stats. By following/ by executing, the notebook steps:
 
 The notebook does:
 * Has the script to copy your SQL lite Safari database
